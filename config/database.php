@@ -1,7 +1,7 @@
 <?php
 // used to connect to the database
 $host = "localhost";
-$db_name = "CRUDPHP";
+$db_name = "PHPCRUD";
 $username = "root";
 $password = "";
   
